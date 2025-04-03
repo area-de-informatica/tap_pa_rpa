@@ -6,4 +6,4 @@
 
 ## percibir entorno
 
-## no sirver
+## no sirve
