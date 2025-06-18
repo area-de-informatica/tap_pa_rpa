@@ -1,3 +1,4 @@
+
 <template>
   <v-container class="py-8">
     <!-- Header con botón de volver -->
